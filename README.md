@@ -1,2 +1,2 @@
 # Competitive_Programming
-To update progress in competitive programming course
+To update my progress in competitive programming course
